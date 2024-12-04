@@ -40,7 +40,9 @@ Email: your-email@example.com
 GitHub: RM550
 📄 License
 This project is licensed under the MIT License.
+You can view the full license text in the LICENSE file.
 You are free to use, modify, and distribute this project as per the terms of the license. ❤️
+
 
 🌟 Enjoy the Advanced Markdown Editor and make your markdown experience effortless! 📝✨
 
