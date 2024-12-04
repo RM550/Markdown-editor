@@ -52,10 +52,6 @@ This is a feature-rich, user-friendly markdown editor that allows you to create 
 
 ---
 
-## **📬 Contact**  
-Feel free to reach out if you have any questions, suggestions, or feedback!  
-- **Email**: [your-email@example.com](reyanbhai2005@gmail.com)  
-- **GitHub**: [RM550](https://github.com/RM550)  
 
 ---
 
