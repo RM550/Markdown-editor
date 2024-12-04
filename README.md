@@ -31,9 +31,10 @@ index.html: The main HTML file that holds the editor and preview layout.
 styles.css: The CSS file for styling the editor and preview components.
 script.js: The JavaScript file for initializing and rendering the markdown editor.
 
-🔗 Live Demo
-👉 Try the live version of the Advanced Markdown Editor here:
-Live Demo
+## **🔗 Live Demo**  
+👉 Try the live version of the Advanced Markdown Editor here:  
+[**Live Demo**](https://rm550.github.io/Markdown-editor/)
+
 
 🛠️ Technologies Used
 
